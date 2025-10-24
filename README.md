@@ -1,8 +1,8 @@
-
 # PopSift
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3728/badge)](https://bestpractices.coreinfrastructure.org/projects/3728)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/64f9192b53df46b483e7cf5be7e2dddd)](https://app.codacy.com/gh/alicevision/popsift/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsimogasp%2Fpopsift.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsimogasp%2Fpopsift?ref=badge_shield)
 
 PopSift is an open-source implementation of the SIFT algorithm in CUDA.
 PopSift tries to stick as closely as possible to David Lowe's famous paper [1], while extracting features from an image in real-time at least on an NVidia GTX 980 Ti GPU.
@@ -112,6 +112,9 @@ We acknowledge that there is at least one SIFT implementation that is vastly fas
 PopSift is licensed under [MPL v2 license](COPYING.md).
 SIFT was patented in the United States from 1999-03-08 to 2020-03-28. See the [patent link](https://patents.google.com/patent/US6711293B1/en) for more information.
 PopSift license only concerns the PopSift source code and does not release users of this code from any requirements that may arise from patents.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsimogasp%2Fpopsift.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsimogasp%2Fpopsift?ref=badge_large)
 
 ## Cite Us
 
